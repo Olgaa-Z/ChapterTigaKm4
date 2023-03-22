@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/fragmentSatu">
+
+    <fragment
+        android:id="@+id/fragmentSatu"
+        android:name="com.zfuncode.chaptertiga_.topictiga.FragmentSatu"
+        android:label="fragment_satu"
+        tools:layout="@layout/fragment_satu" >
+        <action
+            android:id="@+id/action_fragmentSatu_to_fragmentDua2"
+            app:destination="@id/fragmentDua2" />
+        <action
+            android:id="@+id/action_fragmentSatu_to_fragmentTiga"
+            app:destination="@id/fragmentTiga" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentDua2"
+        android:name="com.zfuncode.chaptertiga_.topicempat.FragmentDua"
+        android:label="fragment_dua2"
+        tools:layout="@layout/fragment_dua2" >
+        <action
+            android:id="@+id/action_fragmentDua2_to_fragmentTiga"
+            app:destination="@id/fragmentTiga" />
+        <action
+            android:id="@+id/action_fragmentDua2_to_fragmentSatu"
+            app:destination="@id/fragmentSatu" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentTiga"
+        android:name="com.zfuncode.chaptertiga_.topicempat.FragmentTiga"
+        android:label="fragment_tiga"
+        tools:layout="@layout/fragment_tiga" >
+        <action
+            android:id="@+id/action_fragmentTiga_to_fragmentSatu"
+            app:destination="@id/fragmentSatu" />
+        <action
+            android:id="@+id/action_fragmentTiga_to_fragmentDua2"
+            app:destination="@id/fragmentDua2" />
+        <argument
+            android:name="dataumur"
+            app:argType="string" />
+    </fragment>
+</navigation>

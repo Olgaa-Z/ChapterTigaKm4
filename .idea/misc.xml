@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/drawable/ic_chat.xml" value="0.179" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/activity_eksplicit_intent.xml" value="0.24479166666666666" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/activity_gojek.xml" value="0.25" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/activity_home.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/activity_implicit.xml" value="0.25885416666666666" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/activity_intent.xml" value="0.25885416666666666" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/activity_life_cycle.xml" value="0.25885416666666666" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/activity_main_fragment.xml" value="0.25" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/activity_navigation.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/activity_parcelable.xml" value="0.3484375" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/activity_serializable.xml" value="0.3484375" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/activity_web_view.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/dua.xml" value="0.7197265625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/fragment_dua.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/fragment_dua2.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/fragment_satu.xml" value="0.3484375" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/fragment_satu2.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/layout/fragment_tiga.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/AndroidKotlin/ChapterTiga_/app/src/main/res/menu/menu_navigation.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
